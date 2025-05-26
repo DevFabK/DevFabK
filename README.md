@@ -1,6 +1,6 @@
 # 👋 Hola, soy Fabian Kahric
 
- 💻 Desarrollador en formación, especializado en Frontend con HTML, CSS, JavaScript, Angular y Bootstrap. También tengo experiencia con PHP, Laravel, AWS  y Java.
+ 💻 Desarrollador en formación, especializado en Frontend con HTML, CSS, JavaScript y Bootstrap. También tengo experiencia con PHP, Laravel, AWS  y Java.
 
 👨‍🎓 Actualmente estoy estudiando Desarrollo de Aplicaciones Web (DAW) y trabajando en mi TFG: un foro de debates con evaluación de IA y recompensas por buenos argumentos.
 
