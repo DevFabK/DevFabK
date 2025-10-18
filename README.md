@@ -1,14 +1,29 @@
-# 👋 Hola, soy Fabian Kahric
+👋 ¡Hola! Soy Fabian Kahric
 
- 💻 Desarrollador en formación, especializado en Frontend con HTML, CSS, JavaScript y Bootstrap. También tengo experiencia con PHP, Laravel, Vue  y Java.
+💻 Desarrollador web full stack, con especial enfoque en el Frontend. Me apasiona crear interfaces limpias, usables y visualmente atractivas, combinando diseño y funcionalidad.
 
-👨‍🎓 Actualmente estoy estudiando Desarrollo de Aplicaciones Web (DAW) y trabajando en mi TFG: un foro de debates con evaluación de IA y recompensas por buenos argumentos.
+Actualmente me encuentro buscando nuevas oportunidades laborales en el mundo del desarrollo, mientras sigo trabajando en proyectos personales que me permitan seguir aprendiendo y mostrar lo que puedo hacer.
+Mi objetivo es seguir creciendo como profesional y aportar valor en equipos donde la tecnología y la creatividad vayan de la mano.
 
-## ✨ Sobre mí
+🧠 Tecnologías y experiencia
 
-- 👀 Me interesa el diseño elegante y funcional de las interfaces web. Crear páginas que te hagan pararte a admirar lo que tienes delante.
-- 🌱 Aprendiendo más sobre VueJS y planteándome empezar a aprender sobre GO
-- ⭐ Datos curiosos: Me gustan mucho los videojuegos, como forma de expresión. Jugador de D&D a tiempo parcial.
+Frontend: HTML, CSS, JavaScript, Bootstrap, Vue
+
+Backend: PHP (Laravel), Java
+
+Otros: Git, diseño de interfaces, metodologías ágiles
+
+✨ Sobre mí
+
+🎨 Me apasiona el diseño web elegante y funcional. Creo que una buena interfaz puede contar una historia.
+
+🔍 Siempre estoy aprendiendo algo nuevo; últimamente me interesa profundizar en Vue.js y explorar Go.
+
+🎮 Amante de los videojuegos y jugador de Dungeons & Dragons a tiempo parcial (¡la creatividad también se entrena fuera del código!).
+
+🚀 Objetivo actual
+
+Construir una colección sólida de proyectos personales que sirvan como portfolio y como punto de encuentro para otros desarrolladores con los que compartir ideas y crecer juntos.
 
 ## 📫 Contacto
 
